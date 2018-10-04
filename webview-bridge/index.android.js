@@ -14,7 +14,7 @@
 'use strict';
 
 var React = require('react');
-React.createClass = require('create-react-class');
+// React.createClass = require('create-react-class');
 var PropTypes = require('prop-types');
 var ReactNative = require('react-native');
 var createReactClass = require('create-react-class');
